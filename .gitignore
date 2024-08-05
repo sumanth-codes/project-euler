@@ -1,4 +1,4 @@
 *
 !.gitignore
 !Problem*.java
-!resources/
+!resources/*.txt
